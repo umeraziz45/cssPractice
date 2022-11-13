@@ -1,0 +1,48 @@
+/* Typography= */
+
+* {
+  margin: 0;
+}
+
+h1 {
+  font-size: 48px;
+  color: #2e7ad3;
+  margin: 45px 0;
+}
+
+h2 {
+  font-size: 32px;
+  color: #104c90;
+}
+
+p {
+  font-size: 16px;
+}
+
+/* General */
+
+.links {
+  color: #ff8000;
+}
+
+.title {
+  text-align: center;
+}
+
+.content {
+  width: 500px;
+  margin: 0 auto 45px;
+}
+
+img {
+  margin-bottom: 25px;
+}
+
+.post {
+  background-color: #f1f1f1;
+  padding: 25px;
+}
+
+p {
+  margin: 9px 0;
+}
