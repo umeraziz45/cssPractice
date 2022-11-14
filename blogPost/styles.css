@@ -2,31 +2,31 @@
 
 * {
   margin: 0;
+  font-size: 16px;
 }
 
 h1 {
   font-size: 48px;
   color: #2e7ad3;
   margin: 45px 0;
+  text-align: center;
 }
 
 h2 {
   font-size: 32px;
   color: #104c90;
-}
-
-p {
-  font-size: 16px;
+  margin-bottom: 10px;
 }
 
 /* General */
 
-.links {
-  color: #ff8000;
+a:hover, a:focus {
+  color: #104c90;
 }
 
-.title {
-  text-align: center;
+a {
+  color: #ff8000;
+  font-weight: bold;
 }
 
 .content {
