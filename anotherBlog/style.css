@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+}
+
+h1, h2, p {
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 18px;
+}
+
+a {
+  color: #ffe600;
+}
+
+header, 
+section {
+  padding: 50px;
+}
+
+header {
+  background: #ffe600;
+  color: #000;
+}
+
+.section-one {
+  background: black;
+  color: white;
+}
+
+.section-two a {
+  color: black;
+}
+
+.btn {
+  display: inline-block;
+  padding: 5px 10px;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 5px;
+}
+
+.section-one .btn:hover,
+.section-two .btn:hover {
+  background: white;
+  color: black;
+}
+
+.section-one .btn {
+  background: #ffe600;
+  color: black;
+}
+
+.section-two .btn {
+  background: #000;
+  color: #ffe600;
+}
